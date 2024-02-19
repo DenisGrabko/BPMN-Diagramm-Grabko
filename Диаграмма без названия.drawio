@@ -1,80 +1,165 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T20:04:38.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Eg1T2cNVsJzpx2hya6BE" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T21:57:02.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wLA2X0IQP1fRN_EJYHdc" version="23.1.5" type="github">
   <diagram name="Страница — 1" id="Yzd6xxbswRAlrRU4eSdG">
-    <mxGraphModel dx="1434" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B_3r5BiEb7k1XSMj32hH-10" value="API-method" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-46" width="90" height="30" as="geometry" />
+          <mxGeometry x="150" y="-1160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-11" value="" style="shape=mxgraph.cisco.people.standing_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="22" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="B_3r5BiEb7k1XSMj32hH-12" value="" style="shape=mxgraph.signs.people.waiting_room_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="430" y="160" width="50" height="72" as="geometry" />
+          <mxGeometry x="180" y="-1004" width="22" height="62" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-16" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="-1130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-15" value="" style="shape=mxgraph.signs.people.waiting_room_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-8" width="50" height="72" as="geometry" />
+          <mxGeometry x="40" y="-1122" width="50" height="72" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-20" value="Дії, які виконує користувач" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-46" width="100" height="30" as="geometry" />
+          <mxGeometry x="30" y="-1160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-21" value="API" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-16" width="82" height="82" as="geometry" />
+          <mxGeometry x="150" y="-1130" width="82" height="82" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#ACACAC;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="34" width="30" height="30" as="geometry" />
+          <mxGeometry x="150" y="-1080" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-16" width="80" height="86" as="geometry" />
+          <mxGeometry x="250" y="-1130" width="80" height="86" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-24" value="Лікар" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-46" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="-1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-25" value="" style="shape=mxgraph.cisco.people.standing_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="238" y="110" width="22" height="62" as="geometry" />
+          <mxGeometry x="228" y="-1004" width="22" height="62" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-26" value="" style="image;html=1;image=img/lib/clip_art/people/Nurse_Woman_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="265" y="-9" width="70" height="72" as="geometry" />
+          <mxGeometry x="255" y="-1123" width="70" height="72" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="-9" width="105" height="86" as="geometry" />
+          <mxGeometry x="342.5" y="-1123" width="105" height="86" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-29" value="Лист непрацездатності" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-46" width="90" height="30" as="geometry" />
+          <mxGeometry x="350" y="-1160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-16" width="80" height="86" as="geometry" />
+          <mxGeometry x="460" y="-1130" width="80" height="86" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-32" value="МІС" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-46" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="-1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-34" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="-16" width="80" height="86" as="geometry" />
+          <mxGeometry x="570" y="-1130" width="80" height="86" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-35" value="ЦБД" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-46" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="-1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-37" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-16" width="80" height="86" as="geometry" />
+          <mxGeometry x="690" y="-1130" width="80" height="86" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-38" value="E-Health" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-46" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="-1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.health_monitoring;" vertex="1" parent="1">
-          <mxGeometry x="715" y="12.75" width="50" height="42.5" as="geometry" />
+          <mxGeometry x="705" y="-1101.25" width="50" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-128.png" vertex="1" parent="1">
-          <mxGeometry x="585" y="-6" width="70" height="70" as="geometry" />
+          <mxGeometry x="575" y="-1120" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/medic/128/Medical_Icon-12-128.png" vertex="1" parent="1">
-          <mxGeometry x="478" y="-4" width="64" height="64" as="geometry" />
+          <mxGeometry x="468" y="-1118" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-43" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
-          <mxGeometry x="381" y="20.38" width="48" height="27.25" as="geometry" />
+          <mxGeometry x="371" y="-1093.62" width="48" height="27.25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-44" target="B_3r5BiEb7k1XSMj32hH-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-44" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="-880" width="80" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-45" value="Лікар" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="-910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-46" value="" style="image;html=1;image=img/lib/clip_art/people/Nurse_Woman_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="30" y="-873" width="70" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="-980" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="328" y="-980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-843.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-62" value="Позначити - МВТН введений помилково&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="645" y="-838.5" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-67" target="B_3r5BiEb7k1XSMj32hH-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="-834.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-67" value="Лікар - автор?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-843.5" width="80" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="-834.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-68" value="Так?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="585" y="-845.5" width="35" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-69" value="Ні?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-890" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-70" target="B_3r5BiEb7k1XSMj32hH-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-70" target="B_3r5BiEb7k1XSMj32hH-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-70" value="Активного медичного заклада?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-850" width="110" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-71" value="Так?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-852" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-72" value="Ні?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-890" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-78" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Мати можливість:&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-890" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-50" value="Запит на створення МВТН" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="B_3r5BiEb7k1XSMj32hH-78">
+          <mxGeometry y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-54" value="Пошук МВТН в E-Health" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="B_3r5BiEb7k1XSMj32hH-78">
+          <mxGeometry y="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-56" value="Деталі МВТН" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="B_3r5BiEb7k1XSMj32hH-78">
+          <mxGeometry y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-60" value="Статус МВТН" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="B_3r5BiEb7k1XSMj32hH-78">
+          <mxGeometry y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-58" value="Інформаційна довідка МВТН" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="B_3r5BiEb7k1XSMj32hH-78">
+          <mxGeometry y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-52" value="засвідчити МВТН з КЕП" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="B_3r5BiEb7k1XSMj32hH-78">
+          <mxGeometry y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-54" target="B_3r5BiEb7k1XSMj32hH-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-71" target="B_3r5BiEb7k1XSMj32hH-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
