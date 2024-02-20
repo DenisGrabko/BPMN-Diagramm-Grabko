@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T20:36:22.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7CP1-vxx6xY9XbpkYEb_" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T22:20:02.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="f1UMMJc76Rv72wiBzxUC" version="23.1.5" type="github">
   <diagram name="Страница — 1" id="Yzd6xxbswRAlrRU4eSdG">
-    <mxGraphModel dx="989" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,8 +88,8 @@
         <mxCell id="B_3r5BiEb7k1XSMj32hH-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="303" y="-980" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B_3r5BiEb7k1XSMj32hH-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="328" y="-980" width="60" height="30" as="geometry" />
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-48" value="&#xa;&lt;b id=&quot;docs-internal-guid-f334110e-7fff-0cb6-ec30-127490c3843a&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Cambria, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;отримати заповнену системою E-HEALTH інформаційну довідку МВТН для друку користувачем&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-970" width="942" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="650" y="-843.5" width="90" height="20" as="geometry" />
@@ -342,11 +342,11 @@
         <mxCell id="B_3r5BiEb7k1XSMj32hH-157" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;Створення МВТН&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="-620" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B_3r5BiEb7k1XSMj32hH-160" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="-635" width="275" height="105" as="geometry" />
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-160" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="95" y="-635" width="525" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="B_3r5BiEb7k1XSMj32hH-162" value="МІС забезпечує:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="105" y="-656" width="275" height="21" as="geometry" />
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-162" value="МІС забезпечує можливості при формуванні запиту:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-656" width="515" height="21" as="geometry" />
         </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;endSize=2;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-163" target="B_3r5BiEb7k1XSMj32hH-175">
           <mxGeometry relative="1" as="geometry" />
@@ -401,6 +401,12 @@
             <mxPoint x="219.78999999999996" y="-608.4799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-180" target="B_3r5BiEb7k1XSMj32hH-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-180" target="B_3r5BiEb7k1XSMj32hH-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B_3r5BiEb7k1XSMj32hH-180" value="&amp;nbsp;заповнення&amp;nbsp; &amp;nbsp;&lt;b&gt;опційних&amp;nbsp;&lt;/b&gt;параметрів" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-599.75" width="50" height="25" as="geometry" />
         </mxCell>
@@ -409,6 +415,127 @@
             <mxPoint x="264" y="-600" as="sourcePoint" />
             <mxPoint x="263.78999999999996" y="-608.4799999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-186" target="B_3r5BiEb7k1XSMj32hH-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-186" value="попередня &lt;b&gt;валідація&lt;/b&gt; по МВТН згідно зн.змінних специфікації E-HEALTH" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-600" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-189" target="B_3r5BiEb7k1XSMj32hH-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-189" value="Вибір терміну дії&lt;br&gt;&lt;font style=&quot;font-size: 3px;&quot;&gt;(довільна тривалість не дозволена)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-567.13" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-190" target="B_3r5BiEb7k1XSMj32hH-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-190" value="Категорія &lt;br&gt;&quot;Вагітність та пологи&quot;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-563.5" width="50" height="10.75" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-196" target="B_3r5BiEb7k1XSMj32hH-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-196" value="&lt;b&gt;МВТН &lt;br&gt;Успішно створено&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="-540" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-197" target="B_3r5BiEb7k1XSMj32hH-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-197" target="B_3r5BiEb7k1XSMj32hH-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-197" value="отримання &lt;b&gt;статусу&lt;/b&gt; результату створення" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="-600" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-198" target="B_3r5BiEb7k1XSMj32hH-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-198" value="&lt;span style=&quot;font-family: Cambria, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; font-size: 4px;&quot;&gt;метод API E-HEALTH &quot;&lt;b&gt;getAsyncJobStatus&lt;/b&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 4px;&quot; id=&quot;docs-internal-guid-ad634652-7fff-c062-2280-e0095464c3ed&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=4;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="449" y="-623.75" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-199" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_info_outline_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="493.5" y="-613.75" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-205" value="Інформування про &lt;b&gt;помилки&lt;/b&gt; від E-HEALTH" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="558" y="-599.75" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-208" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;Неуспішне створення&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="-600.75" width="46.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-209" target="B_3r5BiEb7k1XSMj32hH-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-209" value="отримання &lt;b&gt;деталей&lt;/b&gt; непідписанного МВТН&lt;span id=&quot;docs-internal-guid-28e175d6-7fff-a266-7383-a716b8694f1d&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-28e175d6-7fff-a266-7383-a716b8694f1d&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-28e175d6-7fff-a266-7383-a716b8694f1d&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="-477" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" source="B_3r5BiEb7k1XSMj32hH-213" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="-477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-213" value="&lt;span style=&quot;font-family: Cambria, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; font-size: 4px;&quot;&gt;метод API E-HEALTH &quot;&lt;b&gt;getComposition&lt;/b&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 4px;&quot; id=&quot;docs-internal-guid-ad634652-7fff-c062-2280-e0095464c3ed&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=4;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="449" y="-500.75" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-214" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_info_outline_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="493.5" y="-490.75" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-215" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;отримання&amp;nbsp;&lt;b&gt;деталей&lt;br&gt;&lt;/b&gt;&amp;nbsp;МВТН для перевірки внесених даних про МВТН в E-HEALTH&lt;span id=&quot;docs-internal-guid-28e175d6-7fff-a266-7383-a716b8694f1d&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-477" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" target="B_3r5BiEb7k1XSMj32hH-219" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="-464" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-219" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; id=&quot;docs-internal-guid-f334110e-7fff-0cb6-ec30-127490c3843a&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-f334110e-7fff-0cb6-ec30-127490c3843a&quot;&gt;отримання&amp;nbsp; інформаційної довідки від E-HEALTH&lt;br&gt;&lt;b&gt;для друку користувачем&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-477" width="52" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" target="B_3r5BiEb7k1XSMj32hH-223" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="-464" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-223" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;span id=&quot;docs-internal-guid-f334110e-7fff-0cb6-ec30-127490c3843a&quot;&gt;перевірка відомостей&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(з довідки/інтерфейсу)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-477" width="67" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" target="B_3r5BiEb7k1XSMj32hH-225" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="-464" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-225" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;b&gt;&lt;span id=&quot;docs-internal-guid-16b82bf8-7fff-a27b-f42e-724ba546f94e&quot;&gt;&lt;/span&gt;Підписання МВТН&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;b&gt;&amp;nbsp;клієнтськім КЕП&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-476" width="67" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-227" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;Помилки відсутні&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="193" y="-471" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" source="B_3r5BiEb7k1XSMj32hH-229" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="-475.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-229" value="&lt;span style=&quot;font-family: Cambria, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; font-size: 4px;&quot;&gt;метод API E-HEALTH &quot;&lt;b&gt;signComposition&lt;/b&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 4px;&quot; id=&quot;docs-internal-guid-ad634652-7fff-c062-2280-e0095464c3ed&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=4;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-499.62" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-230" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_info_outline_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="-489.62" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-232" target="B_3r5BiEb7k1XSMj32hH-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-232" target="B_3r5BiEb7k1XSMj32hH-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-232" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;Виявлення некоректних&amp;nbsp; відомостей користувачем&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-502.75" width="67" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-234" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 130%;&quot;&gt;Створення &lt;b&gt;нового МВТН&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=4;spacingTop=-2;spacingRight=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-515" width="67" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="B_3r5BiEb7k1XSMj32hH-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B_3r5BiEb7k1XSMj32hH-234" target="B_3r5BiEb7k1XSMj32hH-234">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
